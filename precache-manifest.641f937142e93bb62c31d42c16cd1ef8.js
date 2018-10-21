@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/apo-prototyp/static/js/runtime~main.54869c53.js"
   },
   {
-    "revision": "4aafe5f072a39d366222",
-    "url": "/apo-prototyp/static/js/main.4aafe5f0.chunk.js"
+    "revision": "1b5a07657e8d045c6c92",
+    "url": "/apo-prototyp/static/js/main.1b5a0765.chunk.js"
   },
   {
     "revision": "7eae6140ad0adf38fbdc",
     "url": "/apo-prototyp/static/js/1.7eae6140.chunk.js"
   },
   {
-    "revision": "4aafe5f072a39d366222",
-    "url": "/apo-prototyp/static/css/main.5317d00e.chunk.css"
+    "revision": "1b5a07657e8d045c6c92",
+    "url": "/apo-prototyp/static/css/main.063ce59a.chunk.css"
   },
   {
-    "revision": "722fd6be5f66711a35da1d80dc271319",
+    "revision": "b373dcb2038f4d733d85bbdb05fe499b",
     "url": "/apo-prototyp/index.html"
   }
 ];
